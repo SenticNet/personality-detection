@@ -1,4 +1,4 @@
-# Personality Detection
+# Deep Learning-Based Document Modeling for Personality Detection from Text
 
 This code implements the model discussed in [Deep Learning-Based Document Modeling for Personality Detection from Text](http://sentic.net/deep-learning-based-personality-detection.pdf) for detection of Big-Five personality traits, namely:
 
